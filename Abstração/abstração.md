@@ -9,5 +9,5 @@
 ### 3.2. - Botões
 #### 3.2.1 – Botões numéricos exibem seu valor respectivo na tela;
 #### 3.2.2 – Botões de operação chamam uma função que interage com os botões inseridos na tela;
-### 4.1 – A tela pode ser uma div ou input;
-### 4.2 - Os botões também podem ser div ou button do mesmo tamanho, dentro se uma section;
+### 4.1 – A tela pode ser uma div com um p dentro
+### 4.2 - Os botões também podem ser div ou button do mesmo tamanho, dentro se uma section; ou em formato de table;
