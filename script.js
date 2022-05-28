@@ -14,4 +14,9 @@ function apagar() {
     const result = document.querySelector('#resultado').innerHTML;
     document.querySelector('#resultado').innerHTML = result.substring(0, result.length -1)
 }
-// nova func
+// função '=' para calcular
+function calcula() {
+    const resultado = document.querySelector('#resultado').innerHTML;
+    // ternário não deu certo ; a condição negativa não funciona, vou testar com if depois
+    resultado ? document.querySelector('#resultado').innerHTML = eval(resultado) : "Nada para calcular";
+}
