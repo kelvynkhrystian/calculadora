@@ -11,5 +11,3 @@
 #### 3.2.2 – Botões de operação chamam uma função que interage com os botões inseridos na tela;
 ### 4.1 – A tela pode ser uma div ou input;
 ### 4.2 - Os botões também podem ser div ou button do mesmo tamanho, dentro se uma section;
-## 5 -
-### 5.1 - ...
