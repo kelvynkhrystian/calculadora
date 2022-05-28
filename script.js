@@ -14,3 +14,4 @@ function apagar() {
     const result = document.querySelector('#resultado').innerHTML;
     document.querySelector('#resultado').innerHTML = result.substring(0, result.length -1)
 }
+// nova func
